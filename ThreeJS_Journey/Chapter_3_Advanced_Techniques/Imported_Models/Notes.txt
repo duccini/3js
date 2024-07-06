@@ -1,0 +1,36 @@
+# 3D Formats
+--
+Each ine responding to a problem
+- What data
+- Weight
+- Compression
+- Compability
+- Copyrights
+
+## Different criteria
+- Dedicated to one software
+- Very light but might lack specific data
+- Almost all data but very keavy
+- Open source
+- Not open source_ Binary
+- ASCII
+- You can create your own
+
+## Popular Formats
+- OBJ: simple, efficient
+- EBX
+- STL
+- PLY
+- COLLADA
+- 3DS
+- GLTF
+
+**One format is becoming a standard and shoul cover most of our needs**
+[X] GLTF
+
+- Supports different sets of data like geometries, materials, cameras, lights, scene graph, animations, skeletons, morphing, efficient
+- Various formats like json, binary, embed textures
+Becoming the standard when it comes to real-time and most 3D softwares, game engines, and libraries support it
+
+
+
